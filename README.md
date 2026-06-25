@@ -42,4 +42,4 @@ A Telegram Bot that manages a Minecraft server cluster running in docker.
 
 ### 💬 Get in Touch
 
-*   💬 **Telegram:** [Telegram](tg://resolve?domain=dbinit)
+*   💬 **Telegram:** <a href="https://t.me/dbinit" target="_blank">Telegram</a>
