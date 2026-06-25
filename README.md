@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=aurahustler&color=1e1e2e&style=social&label=Profile+Views" alt="Profile Views" />
 </p>
 
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/?logo=65eeff4c209bf9c7badcd8a688136363ezgif" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🚀 What I Do
