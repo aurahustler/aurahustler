@@ -35,7 +35,7 @@ A Telegram Bot that manages a Minecraft server cluster running in docker.
 *   **Key Features:** Automatic inactivity shutdown (saves VPS memory/CPU), direct server console interaction, status checks, and a lightweight asynchronous architecture.
 *   **Stack:** Python, Aiogram, Redis, JavaServer, Screen, Linux.
 
-#### 📈 Потужнометр (Potuzhnometr)
+#### 📈 Potuzhnometr (Потужносайт)
 *Soon*
 
 ---
