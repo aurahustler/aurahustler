@@ -40,16 +40,6 @@ A Telegram Bot that manages a Minecraft server cluster running in docker.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aurahustler&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=true" alt="aurahustler's GitHub stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurahustler&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true" alt="aurahustler's top languages" height="150" />
-</p>
-
----
-
 ### 💬 Get in Touch
 
 *   💬 **Telegram:** [Telegram](tg://resolve?domain=dbinit)
