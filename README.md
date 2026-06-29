@@ -28,7 +28,7 @@
 
 ---
 
-#### 🔐 Elastra (closed-source)
+#### 🔐 E...... (closed-source)
 Zero-Knowledge encrypted file storage built entirely inside Telegram — no separate website, just a bot + Mini App.
 *   **Key Features:** Client-side AES-256-GCM encryption (master password never leaves device), chunked uploads via Telegram's Bot API relayed through Worker, tiered subscriptions (Stars + crypto payments), admin panel with i18n.
 *   **Stack:** Node.js, TypeScript, grammY, Worker, SQLite + Drizzle ORM.
