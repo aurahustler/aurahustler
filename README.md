@@ -1,4 +1,4 @@
-# Hey, I'm darkblind! 👋
+# Yo, I'm darkblind! 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F8F8F2&width=435&lines=Backend+Engineer;DevOps+%26+Sysadmin;Automation+Enthusiast;Minecraft+Modder+%26+Orchestrator" alt="Typing SVG" />
@@ -12,10 +12,10 @@
 
 ### 🚀 What I Do
 
-*   🤖 **Bots & Automation:** I build Telegram bots, custom licensing tools with HWID security, and automation scripts.
-*   🐧 **DevOps & Sysadmin:** I spin up VPS instances, write systemd services, configure Docker stacks, and set up reverse proxies.
-*   🎮 **Minecraft Server Dev:** I handle server orchestration (auto-start/stop screen sessions to save CPU/RAM), Geyser cross-play setups, and write custom Java plugins/server-side mods when standard ones don't cut it.
-*   🖥️ **Desktop Apps:** Build clean custom tools with Electron (used to do WinForms, PyQT, CustomTKinter, but web tech styling is just way better).
+*   🤖 **Bots and automatization:** Telegram/Discord bots, internal tools, HWID licensing...
+*   🐧 **:** Setting up and maintaining servers (Docker, reverse proxies, etc.)
+*   🎮 **Custom solutions:** Creating custom solutions when off-the-shelf ones aren't enough 
+*   🖥️ **Desktop Apps:** Build clean custom tools.
 
 ---
 
@@ -28,34 +28,18 @@
 
 ---
 
-#### 🔐 E...... (closed-source)
-Zero-Knowledge encrypted file storage built entirely inside Telegram — no separate website, just a bot + Mini App.
-*   **Key Features:** Client-side AES-256-GCM encryption (master password never leaves device), chunked uploads via Telegram's Bot API relayed through Worker, tiered subscriptions (Stars + crypto payments), admin panel with i18n.
-*   **Stack:** Node.js, TypeScript, grammY, Worker, SQLite + Drizzle ORM.
+#### 🔐 ..... (closed-source)
+Zero-Knowledge encrypted file storage built entirely inside Telegram — without separate websites, complex scripts and programs, just a simple, user-friendly bot. + Mini App for uploads.
+*   **Key Features:** Client-side AES-256-GCM encryption, chunked uploads with encryption, i18n.
 
 <br>
 
-#### 📈 ...site (soon...)
+#### 📈 ..... (soon...)
 Real-time monitoring dashboard tracking "tension level" based on ... intensity analysis, calibrated via Gemini AI.
-*   **Key Features:** SSE live updates, Gemini-powered ... intensity scoring with time-decay ... logic, admin panel.
-*   **Stack:** Go, Next.js 14, Python (Telethon worker), MariaDB, Redis, Docker Compose.
-
-<br>
-
-#### 🎮 Minecraft VPS Manager Bot (currently closed-source)
-A Telegram Bot that manages a Minecraft server cluster running in docker.
-*   **Key Features:** Automatic inactivity shutdown (saves server memory/CPU), direct server console interaction, status checks, and a lightweight asynchronous architecture.
-*   **Stack:** Python, Aiogram, Redis, Java Server, Screen, Linux.
+*   **Key Features:** SSE live updates, Gemini-powered ... intensity scoring with time-decay ... logic.
 
 <br>
 
 #### 📝 blindgraph (in development, closed-source)
-A Telegraph-like self-hosted publishing platform with Zero-Knowledge encryption and Telegram as the media backend.
-*   **Key Features:** AES-256-GCM + Argon2id encryption, rich-text editor (TipTap), WebSocket realtime, media stored via Telegram Bot API instead of a traditional file server.
-*   **Stack:** Go (Fiber v2), Next.js 15 + TypeScript, MariaDB.
-
----
-
-### 💬 Get in Touch
-
-*   💬 **Telegram:** [Telegram](https://t.me/dnsinit)
+A Telegraph-like self-hosted publishing platform with Zero-Knowledge encryption.
+*   **Key Features:** AES-256-GCM + Argon2id encryption, rich-text editor, reatlime updates for teamwork.
